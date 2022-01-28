@@ -6,8 +6,10 @@ export const theme = extendTheme({
       "900": "#000000"
     }
   },
-
-  
+  fonts: {
+    heading: 'Merriweather',
+    body: 'Merriweather'
+  },
   styles: {
     global: {
       body: {
